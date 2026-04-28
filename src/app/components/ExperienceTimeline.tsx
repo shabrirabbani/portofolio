@@ -7,7 +7,7 @@ const experiences = [
     role: "Software Engineer",
     period: "07/2025 - Present",
     location: "Jakarta, Indonesia",
-    description: "Solo engineer building and shipping 6 internal apps — from IoT integrations to CRM — while owning the entire production infrastructure. edge infrastructure team building next-gen deployment platform serving 1M+ developers globally.",
+    description: "Solo engineer building and shipping 6 internal apps — from IoT integrations to CRM — while owning the entire production infrastructure.",
     achievements: [
       "Built IoT app connected directly to industrial machinery",
       "Delivered fleet management, sales tracking, and CRM systems",
