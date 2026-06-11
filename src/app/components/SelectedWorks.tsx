@@ -13,6 +13,16 @@ const projects = [
     href: "https://bayeu.my.id/",
   },
   {
+    title: "Laundriku - Laundry Platform Management",
+    category: "Website",
+    description: "A real-time system for managing transactions, orders, and sales operations with speed and accuracy.",
+    year: "2026",
+    tags: ["Next.js", "Tailwind CSS", "Supabase", "PostgreSQL", "Prisma", "Vercel"],
+    gradient: "from-blue-600/15 to-sky-500/10",
+    preview: "Systems",
+    href: "https://laundriku.my.id/",
+  },
+  {
     title: "Movie Ratt",
     category: "Website",
     description: "A website displaying the latest movie ratings, reviews, and audience scores to help users find trending movies.",
